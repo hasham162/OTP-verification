@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "OTP Verification",
+    "slug": "otp-verification",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "otpverification",
+    "userInterfaceStyle": "automatic",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
